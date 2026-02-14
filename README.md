@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EricGuWeihong
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Tensorflow
 - 💞️ I’m looking to collaborate on Medical/Healthcare industry
 - 📫 How to reach me: weihong_gool@hotmail.com
 
